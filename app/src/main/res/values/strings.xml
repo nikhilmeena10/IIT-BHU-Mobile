@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IIT BHU Mobile</string>
+
+    <string name="map_button_name">Map</string>
 </resources>
