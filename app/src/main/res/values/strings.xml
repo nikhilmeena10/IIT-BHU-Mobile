@@ -2,4 +2,12 @@
     <string name="app_name">IIT BHU Mobile</string>
 
     <string name="map_button_name">Map</string>
+    <string name="admissions_button_name">Admissions</string>
+    <string name="calendar_button_name">Calendar</string>
+    <string name="people_button_name">People</string>
+    <string name="tpo_button_name">TPO</string>
+    <string name="academics_button_name">Academics</string>
+    <string name="mail_button_name">Mail</string>
+    <string name="fees_button_name">Pay Fees</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
