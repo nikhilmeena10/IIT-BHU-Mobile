@@ -2,7 +2,7 @@
     <string name="app_name">IIT BHU Mobile</string>
 
     <string name="map_button_name">Map</string>
-    <string name="admissions_button_name">Admissions</string>
+    <string name="holidays_button_name">Holidays</string>
     <string name="calendar_button_name">Calendar</string>
     <string name="people_button_name">People</string>
     <string name="tpo_button_name">TPO</string>

@@ -90,30 +90,6 @@
 
             </LinearLayout>
 
-            <LinearLayout
-                android:id="@+id/admissions_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="@dimen/activity_horizontal_margin"
-                android:layout_weight="1"
-                android:clickable="true"
-                android:orientation="vertical">
-
-                <ImageView
-                    android:id="@+id/admissions_button_image"
-                    android:layout_width="48dp"
-                    android:layout_height="48dp"
-                    android:layout_gravity="center_horizontal"
-                    android:src="@drawable/college_building"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:text="@string/admissions_button_name"
-                    android:textSize="10sp"/>
-
-            </LinearLayout>
 
             <LinearLayout
                 android:id="@+id/calendar_button"
@@ -136,6 +112,31 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:text="@string/calendar_button_name"
+                    android:textSize="10sp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/holidays_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/holidays_button_image"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/indian_festival"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/holidays_button_name"
                     android:textSize="10sp"/>
 
             </LinearLayout>
